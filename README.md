@@ -1,3 +1,5 @@
+This is my personal sample version of sunibandla's Vue.js sample app using MSAL.  When running npm install, ignore the security errors.  Upgrading webpack WILL cause the system to fail to compile.
+
 # MSAL.js (Microsoft Authentication Library for Javascript) + Vue.js Sample
 
 - Uses [MSAL.js](https://github.com/AzureAD/microsoft-authentication-library-for-js) to add a Sign in with Microsoft button
